@@ -1,5 +1,6 @@
 # Online-Marketplace
 Overview: Design and implement an online marketplace application. The online marketplace handle the following basic events:
+
 	• User Registration
   	• User Login
   	• Browsing Items
@@ -35,6 +36,7 @@ The following steps must be involved in order for a RMI program to work properly
 - Given Machine for Server is: in-csci-rrpc01.cs.iupui.edu - 10.234.136.55
 
   others are for customer/admin to access the remote services are: 
+  
 	• in-csci-rrpc02.cs.iupui.edu - 10.234.136.56
 	• in-csci-rrpc03.cs.iupui.edu - 10.234.136.57
 	• in-csci-rrpc04.cs.iupui.edu - 10.234.136.58
